@@ -28,7 +28,8 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 
     nltk.download('punkt')
     nltk.download('stopwords')
-
+    nltk.download('punkt_tab')
+    
 ###### Sample documents stored in a dictionary
     documents = {
         "doc1": "This is the first document.",
